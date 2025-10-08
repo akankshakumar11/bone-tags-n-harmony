@@ -1,7 +1,13 @@
 ## Multimodal Deep Learning for Opportunistic Osteoporosis Screening Using Knee X-rays and Clinical Risk Factors
 > This project explores opportunistic osteoporosis screening from knee X-rays, using multimodal deep learning to identify low bone density in routine orthopedic radiographs by combining imaging biomarkers with clinical risk factors to enable early detection without additional radiation or cost.
+> 
+> 
+> ![btnh small](https://github.com/user-attachments/assets/6c4017eb-12c0-40c3-af35-3c499a5445a4) \
+> bone (knee x-ray) + tags (clinical metadata) --> harmony (multimodal fusion to predict BMD) \
+> _BMD - bone mineral density_
 
 ### Motivation
+
 Osteoporosis is often underdiagnosed because patients rarely undergo dedicated bone mineral density (BMD) scans until a fracture occurs. However, many adults undergo knee X-rays for other reasons, such as orthopedic complaints or arthritis assessment. These X-rays, combined with simple clinical data, could potentialy serve as a source for _opportunistic osteoporosis screening_, detecting low bone density early and prompting preventive care.  
 
 #### Clinical Impact
